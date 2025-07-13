@@ -1,4 +1,4 @@
-name = "serverless-qrcode-hub"
+name = "weixinqr"
 main = "index.js"
 compatibility_date = "2025-03-10"
 
